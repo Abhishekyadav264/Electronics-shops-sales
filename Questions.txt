@@ -1,0 +1,29 @@
+1. Retrieve the sale_id and total_price from the Sales table for sales
+made on January 3, 2024.
+
+2. Retrieve the product_id and product_name from the Products
+table for products with a unit_price greater than $100.
+
+3. Retrieve the sale_id, product_id, and total_price from the Sales
+table for sales with a quantity_sold greater than 4.
+
+4. Retrieve the product_name and unit_price from the Products
+table, ordering the results by unit_price in descending order.
+
+5. Retrieve the sale_id and sale_date from the Sales table,
+formatting the sale_date as ‘YYYY-MM-DD’.
+
+6. Calculate the total revenue generated from sales of products in
+the ‘Electronics’ category.
+
+7. Retrieve the product_name and unit_price from the Products
+table, filtering the unit_price to show only values between $20 and
+$600.
+8. Retrieve the product_name and category from the Products
+table, ordering the results by category in ascending order.
+
+9. Calculate the total quantity_sold of products in the ‘Electronics’
+category.
+10. Retrieve the product_name and total_price from the Sales table,
+calculating the total_price as quantity_sold multiplied by unit_price.
+
